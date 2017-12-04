@@ -1,5 +1,5 @@
 # analysing_itunes_reviews
-DS+ Code of the post: Analysing iOS App iTunes Reviews in R
+DS+ Code of the post: https://datascienceplus.com/analysing-ios-app-store-itunes-reviews-in-r/
 
 Sentiment Analysis of Uber Reviews:
 
